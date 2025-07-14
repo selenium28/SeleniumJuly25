@@ -31,6 +31,9 @@ public class CSSAndxApth {
 //		Preceding
 //		(//*[text()='User Role'])[1]//preceding::input[1]
 		
+//		https://demo.guru99.com/test/newtours/register.php
+//		https://demo.guru99.com/test/delete_customer.php
+		
 		
 		
 	}
