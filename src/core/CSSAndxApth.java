@@ -33,6 +33,8 @@ public class CSSAndxApth {
 		
 //		https://demo.guru99.com/test/newtours/register.php
 //		https://demo.guru99.com/test/delete_customer.php
+//		https://www.globalsqa.com/demo-site/draganddrop/
+//		https://www.w3schools.com/html/html_forms.asp
 		
 		
 		
